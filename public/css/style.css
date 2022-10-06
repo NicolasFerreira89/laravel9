@@ -1,0 +1,46 @@
+body
+{
+    background-color: gray;
+}
+
+.cards
+{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cards .card
+
+{
+    
+    padding: 10px;
+    margin: 50px;    
+
+}
+
+
+.cards .card:hover
+{
+    
+    transition-delay: 10ms;
+}
+
+.contact{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.contact .icon{
+    padding: 50px;
+    margin: 10px;   
+}
+
+.contact .contato{
+    text-align: center;
+    justify-content: center;
+}
+
